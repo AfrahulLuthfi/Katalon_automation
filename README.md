@@ -1,12 +1,12 @@
-# Final Project API 
-This is repository for FINAL PROJECT WEB KATALON on website https://www.saucedemo.com/
+#Project API 
+This is repository for PROJECT WEB KATALON on website https://www.saucedemo.com/
 
 ## Installation
 
 Here are the steps to set up this project in your development environment :
 
 ### 1. Katalon Studio
-Download and install Katalon Studio version 8.8 from official Katalon Website
+Download and install Katalon Studio version 9.0 from official Katalon Website
 
 ### 2. This Repository
 Clone this repository to your computer or download the ZIP
